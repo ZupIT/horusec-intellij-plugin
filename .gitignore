@@ -1,0 +1,9 @@
+out
+dist
+build/*
+!build/node-extension.webpack.config.js
+node_modules
+*.vsix
+.horusec/
+tmp
+.idea

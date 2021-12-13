@@ -1,0 +1,6 @@
+{
+  "horusecCliFilesOrPathsToIgnore": [
+    "*tmp*",
+    "**/dist/**"
+  ]
+}
